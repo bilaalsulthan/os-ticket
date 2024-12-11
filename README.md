@@ -1,4 +1,4 @@
-# osTicket Help Desk Ticketing System
+# osTicket - Help Desk Ticketing System
 
 ## Step 1: Install osTicket
 1. **Download osTicket** from the official website: [osTicket Downloads](https://osticket.com/download/).
@@ -29,20 +29,3 @@
    - Enable email piping, add plugins, and configure advanced features.
 
 ---
-
-# Instructions for GitHub
-
-- Save this content in a `README.md` file.
-- Replace the placeholder image URLs (e.g., `https://via.placeholder.com/...`) with your actual images or screenshots.
-- Push the file to your GitHub repository.
-
-Example commands:
-```bash
-git init
-git add README.md
-git commit -m "Add osTicket 3-Step Guide"
-git branch -M main
-git remote add origin https://github.com/yourusername/your-repo.git
-git push -u origin main
-```
-# os-ticket
